@@ -1,0 +1,5 @@
+{
+  "python.autoComplete.extraPaths": ["./env/bin/python3"],
+  "python.analysis.extraPaths": ["./env/bin/python3"],
+  "python.analysis.autoImportCompletions": true
+}
