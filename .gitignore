@@ -4,3 +4,4 @@ files/
 .cache/
 .streamlit/
 .DS_Store
+falcon.bin
