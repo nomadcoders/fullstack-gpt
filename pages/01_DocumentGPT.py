@@ -132,7 +132,7 @@ if file:
             | llm
         )
         with st.chat_message("ai"):
-            response = chain.invoke(message)
+            chain.invoke(message)
 
 
 else:
