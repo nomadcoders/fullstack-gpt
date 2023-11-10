@@ -60,7 +60,7 @@ fsspec==2023.9.1
 future==0.18.3
 gitdb==4.0.10
 GitPython==3.1.35
-gpt4all==1.0.12
+gpt4all==2.0.2
 h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
@@ -88,7 +88,7 @@ jsonschema-specifications==2023.7.1
 jupyter_client==8.3.1
 jupyter_core==5.3.1
 kiwisolver==1.4.5
-langchain==0.0.326
+langchain==0.0.332
 langcodes==3.3.0
 langsmith==0.0.52
 layoutparser==0.3.4
@@ -192,7 +192,7 @@ soupsieve==2.5
 spacy==3.6.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-SQLAlchemy==1.4.49
+SQLAlchemy==2.0.22
 sqlitedict==2.1.0
 srsly==2.4.7
 stack-data==0.6.2
