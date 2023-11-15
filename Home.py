@@ -17,7 +17,7 @@ Here are the apps I made:
 - [x] [🔒 PrivateGPT](/PrivateGPT)
 - [x] [❓ QuizGPT](/QuizGPT)
 - [x] [🖥️ SiteGPT](/SiteGPT)
-- [ ] [💼 MeetingGPT](/MeetingGPT)
+- [x] [💼 MeetingGPT](/MeetingGPT)
 - [ ] [📈 InvestorGPT](/InvestorGPT)
 """
 )
