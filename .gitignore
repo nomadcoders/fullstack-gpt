@@ -5,3 +5,4 @@ files/
 .streamlit/
 .DS_Store
 falcon.bin
+__pycache__
